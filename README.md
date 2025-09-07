@@ -28,3 +28,5 @@ O_CHAT = The bot’s first message
 TAG = How the bot should be tagged (@BOT or bot)
 
 V Beta 0.2
+
+# If the bot has any issues, please send a message to komak2020 on Discord
